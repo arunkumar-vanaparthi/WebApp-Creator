@@ -63,20 +63,7 @@ Done! Check the output folder for your new OutlookApp app.
 
 ---
 
-## 🖼 Screenshots (Optional)
-
-**Launcher Script:**  
-![Launcher](screenshots/launcher.png)
-
-**PowerShell Building App:**  
-![Building App](screenshots/building.png)
-
-**Output Folder:**  
-![Output Folder](screenshots/output.png)
-
-> You can add these screenshots later in a `screenshots` folder.
-
----
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
+
