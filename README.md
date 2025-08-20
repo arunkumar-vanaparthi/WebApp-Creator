@@ -37,3 +37,46 @@ Built with **PowerShell + Batch** for easy use on Windows systems.
 ---
 
 ## 🖥 Example
+
+Enter the website URL (example: https://github.com): https://outlook.office.com
+Enter the app name (example: GitHubApp): OutlookApp
+
+Creating "OutlookApp" from https://outlook.office.com...
+Done! Check the output folder for your new OutlookApp app.
+
+
+---
+
+## ⚡ Features
+- Works on a **fresh Windows PC**
+- Auto-installs **Node.js + Nativefier** if missing
+- **Removes old build warning** automatically
+- Interactive → Just type URL + App name
+- No permanent changes to PowerShell execution policy
+
+---
+
+## 📝 Notes
+- Internet connection is required the first time (to install Node.js + Nativefier).  
+- Works best with **Windows 10 / 11**.  
+- If your company blocks installs, run as **Administrator**.  
+
+---
+
+## 🖼 Screenshots (Optional)
+
+**Launcher Script:**  
+![Launcher](screenshots/launcher.png)
+
+**PowerShell Building App:**  
+![Building App](screenshots/building.png)
+
+**Output Folder:**  
+![Output Folder](screenshots/output.png)
+
+> You can add these screenshots later in a `screenshots` folder.
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
