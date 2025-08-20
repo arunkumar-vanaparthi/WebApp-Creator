@@ -1,0 +1,13 @@
+====================================
+  Web App Creator - Quick Guide
+====================================
+
+1. Double-click run-webapp.bat
+2. Enter the Website URL (example: https://github.com)
+3. Enter the App Name (example: GitHubApp)
+4. Wait until build is finished.
+5. Find your new app inside the folder created.
+
+Note:
+- Requires internet connection on first run.
+- Windows 10/11 recommended.
